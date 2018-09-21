@@ -11,5 +11,8 @@
 
 ### master status
 [![Build Status](https://travis-ci.com/BrunoML1991/IWVG.SwC.BrunoMartin.svg?branch=master)](https://travis-ci.com/BrunoML1991/IWVG.SwC.BrunoMartin)
-![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3AIWVG.SwC.BrunoMartin&metric=alert_status)
+![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=es.upm.miw%3AIWVG.SwC.BrunoMartin&metric=alert_status)  
+  
+# Comentarios
+Problemas con Travis-CI al principio porque no aceptaba la clave de SonarCloud. Arreglado en issue #01
 
