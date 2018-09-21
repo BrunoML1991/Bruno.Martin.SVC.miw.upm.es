@@ -8,7 +8,7 @@ branches:
 notifications:
   email:
     recipients:
-    - architect@gmail.com
+    - bruno.martin.lopez@alumnos.upm.es
 services:
 - mysql
 before_install:
