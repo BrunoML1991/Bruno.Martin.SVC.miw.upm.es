@@ -2,6 +2,7 @@ package controlVersiones;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class C31Test {
@@ -21,6 +22,11 @@ class C31Test {
     @Test
     void testM2 (){
         assertEquals("m2",c31.m2());
+    }
+
+    @Test
+    void testMB (){
+        assertEquals("mB",c31.mB());
     }
 
 }
